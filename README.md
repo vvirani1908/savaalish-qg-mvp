@@ -93,4 +93,4 @@ docs/ (PDF, txt)
 
 ---
 
-**License:** MIT.  © {year} Vansh Virani
+**License:** MIT.  © 2025 Vansh Virani
