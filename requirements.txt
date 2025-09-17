@@ -3,7 +3,7 @@ tiktoken
 faiss-cpu
 numpy
 pandas
-openai
+google-generativeai
 python-dotenv
 tqdm
 rapidfuzz
