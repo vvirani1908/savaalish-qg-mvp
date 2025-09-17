@@ -1,0 +1,9 @@
+pypdf
+tiktoken
+faiss-cpu
+numpy
+pandas
+openai
+python-dotenv
+tqdm
+rapidfuzz

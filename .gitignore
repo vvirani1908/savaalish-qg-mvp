@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert
+*.nb.html
+
+# OS / Editors
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Credentials
+.env
+
+# Outputs
+output/*
+!output/.gitkeep
+
+# Local data
+docs/*
+!docs/.gitkeep
